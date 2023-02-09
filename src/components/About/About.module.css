@@ -1,0 +1,26 @@
+.wrapper {
+    width: 90%;
+    max-width: 1440px;
+    margin: 90px auto 30px;
+    display: flex;
+    align-items: center;
+    gap:15px;
+}
+
+.wrapper h3 {
+    font-size: 34px;
+    max-width:350px;
+}
+
+.wrapper p {
+    margin: 12px 0;
+    max-width:650px;
+    color: rgba(255, 255, 255, 0.647);
+}
+
+.wrapper a {
+    color: cyan;
+    text-decoration: none;
+    padding-bottom: 6px;
+    border-bottom: 1px solid cyan;
+}

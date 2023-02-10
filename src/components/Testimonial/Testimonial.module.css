@@ -1,0 +1,27 @@
+.card {
+    background-color: hsl(219, 30%, 18%);
+    padding: 50px 24px 20px;
+
+}
+
+.opinion {
+    color: rgba(255, 255, 255, 0.647);
+    margin-bottom: 25px;
+}
+
+.author {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.author img {
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+}
+.author span {
+    color: rgba(255, 255, 255, 0.647);
+    font-size: 12px;
+}

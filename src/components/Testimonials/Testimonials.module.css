@@ -1,0 +1,15 @@
+.wrapper {
+    width: 90%;
+    max-width: 1440px;
+    margin: 120px auto 50px;
+    display: flex;
+    gap: 46px;
+    position: relative;
+}
+
+.quotes {
+    position: absolute;
+    top: -34px;
+    left: -7px;
+    z-index: -1;
+}
